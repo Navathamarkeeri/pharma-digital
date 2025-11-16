@@ -1,0 +1,34 @@
+# GitHub Pages Configuration for Pharmasampark
+# This file ensures GitHub Pages serves the site correctly
+
+# Theme (optional, but helps with Jekyll)
+theme: jekyll-theme-minimal
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - DEPLOYMENT_*.md
+  - QUICK_*.md
+  - GIT_SETUP.md
+  - requirements.txt
+  - *.bat
+  - .gitignore
+  - pharmasampark_app.jsx
+  - digital_bridge_site.jsx
+
+# Include only necessary files
+include:
+  - index.html
+
+# Markdown settings
+markdown: kramdown
+
+# Build settings
+plugins: []
+
+# Safe mode (for security)
+safe: true
+
+# Encoding
+encoding: utf-8
+
