@@ -1,0 +1,16 @@
+# Pharmasampark - Requirements
+# 
+# This is a static HTML/React application that uses CDN libraries.
+# No Python dependencies are required for the application itself.
+#
+# The only requirement is Python 3.x for running the local development server:
+#   python -m http.server 8000
+#
+# Python 3.6+ is sufficient (http.server is part of the standard library)
+#
+# Optional: If you want to use a more advanced server, you can install:
+# - For Node.js: npx serve .
+# - For PHP: php -S localhost:8000
+#
+# No pip install required - this is a static site!
+
