@@ -1,5 +1,8 @@
 # Pharmasampark - Pharma-Doctor Communication Platform
 
+**Problem we are solving:**  
+There is no single, compliant digital platform where pharma companies can educate doctors effectively and doctors can discover, evaluate, and interact with pharma products on their own time.
+
 A modern web application for connecting pharmaceutical companies with healthcare professionals, built with React and Tailwind CSS.
 
 ## 🚀 Features
@@ -76,13 +79,10 @@ php -S localhost:8000
 ├── index.html              # Main application file
 ├── pharmasampark_app.jsx   # Original JSX file (reference)
 ├── requirements.txt        # Python requirements (minimal)
-├── .gitignore             # Git ignore rules
-├── README.md              # This file
-├── DEPLOYMENT_CHECKLIST.md # Deployment checklist
-├── DEPLOYMENT_SUMMARY.md   # Deployment summary
-├── QUICK_START.md         # Quick start guide
-├── start-server.bat       # Windows batch file to start server
-└── open-app.bat          # Windows batch file to open app
+├── .gitignore              # Git ignore rules
+├── README.md               # Main documentation (includes deployment)
+├── start-server.bat        # Windows batch file to start server
+└── open-app.bat            # Windows batch file to open app
 ```
 
 ## 🚀 Deployment
