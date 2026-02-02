@@ -1,4 +1,5 @@
 # Pharmasampark - Pharma-Doctor Communication Platform
+https://bucolic-rolypoly-36c6e2.netlify.app/
 
 **Problem we are solving:**  
 There is no single, compliant digital platform where pharma companies can educate doctors effectively and doctors can discover, evaluate, and interact with pharma products on their own time.
